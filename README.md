@@ -1,6 +1,5 @@
 # Gimbaltool
-temp unavailable due to coding issue
-
+please download both files to your desktop
 
 
 
