@@ -1,6 +1,7 @@
 # Gimbaltool
-please download both files to your desktop
-
+New installer file uploaded as the 
+previous versions were getting 
+flagged as a virus
 
 
 
@@ -14,4 +15,4 @@ just click more info>run anyway
 this will extract the files to userprofile\gimcaltool
 and add a shortcut to the desktop
 
-This was a tested tool with the MM but not the MA2
+This was a tested tool with the MM and Spark but not the MA2
